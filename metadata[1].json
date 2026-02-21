@@ -1,0 +1,9 @@
+{
+  "name": "Arogya Mantra",
+  "description": "A comprehensive health management app featuring medicine reminders with visual tablet sheets, doctor appointments with online payment, and an AI health assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
